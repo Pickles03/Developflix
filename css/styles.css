@@ -15,4 +15,17 @@ h2 {
   margin-bottom: 10px;
 }
 
+.genero {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.movie-card {
+  display: flex;
+  flex-direction: row;
+  scale: .5;
+  margin: none;
+  display: inline;
+}
 
