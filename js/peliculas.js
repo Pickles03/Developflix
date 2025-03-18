@@ -402,4 +402,3 @@ const peliculas = [
 
 export default peliculas
 
-console.log(peliculas);
